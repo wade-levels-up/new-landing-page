@@ -173,3 +173,11 @@ h4 {
     height: 40px;
 }
 
+footer {
+    text-align: center;
+    background-color: #1f2937;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding: 30px 0;
+}
+
