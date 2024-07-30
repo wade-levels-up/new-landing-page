@@ -61,11 +61,11 @@ h1 {
     margin: 0;
 }
 
-.left button {
+button {
     background-color: #3882f6;
     margin: 0;
     border-radius: 5px;
-    width: 25%;
+    width: 120px;
     padding: 8px 16px;
     border-style: none;
 }
@@ -144,3 +144,30 @@ h3 {
     font-size: 24px;
     text-align: right;
 }
+
+
+.container-bottom {
+    padding: 100px 20%;
+    color: #F9FAF8;
+}
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882f6;
+    padding: 50px 100px;
+    border-radius: 15px;
+    gap: 50px;
+}
+
+h4 {
+    font-size: 24px;
+    margin: 0;
+}
+
+.call-to-action button {
+    border: 3px solid white;
+    height: 40px;
+}
+
